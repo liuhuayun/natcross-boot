@@ -32,7 +32,7 @@ public class CommonConstants {
     /**
      * 签名最大差异时间（毫秒）
      */
-    public static Long SIGN_MAX_DIFF_MILLIS = 10000L;
+    public static Long SIGN_MAX_DIFF_MILLIS = 20000L;
 
     public void setSHIRO_ALGORITHM_NAME(String sHIRO_ALGORITHM_NAME) {
         SHIRO_ALGORITHM_NAME = sHIRO_ALGORITHM_NAME;
